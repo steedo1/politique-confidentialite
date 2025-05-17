@@ -11,7 +11,12 @@
 - Afficher les classements  
 
 ## 3. Hébergement des Données  
-- Supabase (basé en UE, conforme au RGPD)  
+- Supabase (basé en UE, conforme au RGPD)
+
+- ## Publicités pour enfants
+Nous utilisons exclusivement des annonces certifiées Google Play, filtrées pour :
+- Pas de tracking personnalisé
+- Contenu éducatif/approuvé familial
 
 ## 4. Vos Droits  
 - Supprimer votre compte via l'application.  
